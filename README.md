@@ -5,6 +5,9 @@ Testing GIt For Teams
 
 These are Clayton's changed
 
+Cant stop writing random shit - Srimant Mishra
+
 Just making some more changes to the readme
 
 blah blah blah
+
